@@ -16,7 +16,7 @@ section {
   justify-content: center;
   align-items: center;
   overflow: hidden;
-  background: url("img/Halloween.jpg");
+  background: url("images/Halloween.jpg");
   background-size: cover;
   background-position: bottom center;
 }
@@ -28,8 +28,7 @@ section {
 h2 {
   font-size: 5rem;
   color: #312747;
-  text-shadow: 0 0 5px #65ff00, 0 0 25px #65ff00, 0 0 50px #65ff00,
-    0 0 100px #65ff00;
+  text-shadow: 0 0 5px #65ff00, 0 0 25px #65ff00, 0 0 50px #65ff00, 0 0 100px #65ff00;
   text-align: center;
 }
 
@@ -43,8 +42,7 @@ h2 {
   padding: 10px 5px 5px;
   min-width: 110px;
   color: #312747;
-  text-shadow: 0 0 5px #65ff00, 0 0 25px #65ff00, 0 0 50px #65ff00,
-    0 0 100px #65ff00;
+  text-shadow: 0 0 5px #65ff00, 0 0 25px #65ff00, 0 0 50px #65ff00, 0 0 100px #65ff00;
   /* z-index: 3; */
 }
 
@@ -64,7 +62,7 @@ h2 {
 }
 
 .fog-img-first {
-  background: url("img/fog-1.png");
+  background: url("images/fog-1.png");
   background-repeat: repeat-x;
   background-size: cover;
   background-position: center;
@@ -72,7 +70,7 @@ h2 {
 }
 
 .fog-img-second {
-  background: url("img/fog-2.png");
+  background: url("images/fog-2.png");
   background-repeat: repeat-x;
   background-size: cover;
   background-position: center;
