@@ -16,7 +16,7 @@ section {
   justify-content: center;
   align-items: center;
   overflow: hidden;
-  background: url("images/Halloween.jpg");
+  background: url("../images/Halloween.jpg");
   background-size: cover;
   background-position: bottom center;
 }
@@ -62,7 +62,7 @@ h2 {
 }
 
 .fog-img-first {
-  background: url("images/fog-1.png");
+  background: url("../images/fog-1.png");
   background-repeat: repeat-x;
   background-size: cover;
   background-position: center;
@@ -70,7 +70,7 @@ h2 {
 }
 
 .fog-img-second {
-  background: url("images/fog-2.png");
+  background: url("../images/fog-2.png");
   background-repeat: repeat-x;
   background-size: cover;
   background-position: center;
